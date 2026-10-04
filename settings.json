@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "malschauen.aternos.me",
+    "port": 12201,
     "version": "",
     "try-creative": false
   },
